@@ -68,8 +68,8 @@ import measurement as mt
 # plt.plot(num_step,A)
 # # plt.plot(num_step,B) 
 # plt.axhline(M) 
-plt.axhline(P)
-plt.show()
+# plt.axhline(P)
+# plt.show()
  
 # ''' "blue" line indicates the how much entangled it is,
 # and "orange" line indicates how much use the hilbert space'''
