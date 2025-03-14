@@ -76,21 +76,6 @@ import measurement as mt
 
 
 
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
 def one_q(initial_state, N):
     X =sqg.X_gate()
     H = sqg.Hadamard()
