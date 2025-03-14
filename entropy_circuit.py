@@ -68,7 +68,7 @@ import measurement as mt
 # plt.plot(num_step,A)
 # # plt.plot(num_step,B) 
 # plt.axhline(M) 
-# # plt.axhline(P)
+plt.axhline(P)
 plt.show()
  
 # ''' "blue" line indicates the how much entangled it is,
